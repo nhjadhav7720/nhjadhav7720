@@ -131,7 +131,7 @@ const nikita: AngularDeveloper = {
 
 - 📧 **Email:** [nikita.jadhav9852@gmail.com](mailto:nikita.jadhav9852@gmail.com)
 - 📞 **Phone:** +91-7447339581
-- 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🔗 **LinkedIn:** [linkedin.com/in/nikita-jadhav](https://www.linkedin.com/in/nikita-jadhav-angular/)
 - 📍 **Location:** Pune, Maharashtra, India
 
 ---
